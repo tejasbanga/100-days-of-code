@@ -1,0 +1,25 @@
+body{
+  animation:colorchange 10s infinite;
+}
+
+.button1{
+  font-size:20px;
+ color:rgba(0,0,0,0.2);
+  font-family:Open Sans;
+  animation:colorchange 10s infinite;
+  }
+
+
+p{
+  font-family:Open Sans;
+  font-size:48px;
+  color:rgba(0,0,0,0.2);
+  }
+
+@keyframes colorchange{
+  0%{background:#258C64;}
+  25%{background:#C70039;}
+  50%{background:#35258C;}
+  75%{background:#8C254C;}
+  100%{background:#50D141;}
+}
