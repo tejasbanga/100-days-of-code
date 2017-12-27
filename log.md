@@ -6,4 +6,8 @@
 **Day 2**: December 26,2017\
 **Today's progress**: I finally finished the random quote machine , and i started working on the local weather app.
 **Thoughts**: I'm totally new to apis and am still learning them, I'm reading all I can about it. Hopefully I'll understand this concept soon <br/>
-**Link to Work**:https://codepen.io/tejasbn/pen/baVYOV?editors=0010\
+**Link to Work**:https://codepen.io/tejasbn/pen/baVYOV?editors=0010  \
+**Day 3**: December 27,2017 \
+**Today's progress**: I started today with learning how to use apis in javascript, and learnt jquery, also made the local weather app work, all it need it some css magic. \
+**Thoughts**: I was not sure if I coudl get the local weather app to work but I persevered. Also one more thing while doing the free code camp excercises I had neglected jQuery because it looked too complicated and I stuck to traditional javascript to get my work done, but today I took a course on jQuery on codecademy and was able to appreciate it's awesomeness!!<br/>
+**Link to work**:https://codepen.io/tejasbn/project/editor/XmJBPE \
