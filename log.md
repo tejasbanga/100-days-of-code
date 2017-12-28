@@ -10,4 +10,8 @@
 **Day 3**: December 27,2017 \
 **Today's progress**: I started today with learning how to use apis in javascript, and learnt jquery, also made the local weather app work, all it need it some css magic. \
 **Thoughts**: I was not sure if I coudl get the local weather app to work but I persevered. Also one more thing while doing the free code camp excercises I had neglected jQuery because it looked too complicated and I stuck to traditional javascript to get my work done, but today I took a course on jQuery on codecademy and was able to appreciate it's awesomeness!!<br/>
-**Link to work**:https://codepen.io/tejasbn/project/editor/XmJBPE \
+**Link to work**:https://codepen.io/tejasbn/project/editor/XmJBPE   \
+**Day 4**: December 28,2017 \
+**Progress**:worked on the js part of the local weather app, nothing much to show though. \
+**Thoughts**:well today was not my most productive day, I realised my css skills were not uptom mark and I need to take a lot of css courses in order to improve myself. <br/>
+**Link to work**:https://codepen.io/tejasbn/project/editor/XmJBPE   \
