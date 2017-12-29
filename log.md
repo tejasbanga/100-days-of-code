@@ -15,3 +15,7 @@
 **Progress**:worked on the js part of the local weather app, nothing much to show though. \
 **Thoughts**:well today was not my most productive day, I realised my css skills were not uptom mark and I need to take a lot of css courses in order to improve myself. <br/>
 **Link to work**:https://codepen.io/tejasbn/project/editor/XmJBPE   \
+**Day 5**: Decmeber 29,2017 \
+**Progress**: Almost done with the js part just figuring out how to get the weather icons \
+**Thoughts**: I'm going a bit slow and it's kind of worrying that I'm not good enough or something, but I thought the same of the random quote machine too , but i got it done. I'll work hard and get this done too. \
+**Link**: https://codepen.io/tejasbn/project/editor/XmJBPE \
