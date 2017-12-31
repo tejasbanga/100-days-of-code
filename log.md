@@ -19,7 +19,13 @@
 **Progress**: Almost done with the js part just figuring out how to get the weather icons \
 **Thoughts**: I'm going a bit slow and it's kind of worrying that I'm not good enough or something, but I thought the same of the random quote machine too , but i got it done. I'll work hard and get this done too. \
 **Link**: https://codepen.io/tejasbn/project/editor/XmJBPE \
-**Day 6**: Decemeber 28,2017 \
+**Day 6**: Decemeber 30,2017 \
 **Progress**: No progress whatsoever , i am still not able to access the weather icons still.
 **Thouhts** : I'm dissappointed how casually I'm taking this , I need to work hard and concentrate \
-**Link**: https://codepen.io/tejasbn/project/editor/XmJBPE# 
+**Link**: https://codepen.io/tejasbn/project/editor/XmJBPE#  \
+**Day 7** : December 31,2017 \
+**Progress**: not stuck anymore can acess the weather icons \
+**Thoughts**: I am happy today, I finally got unstuck from this problem and all I needed was a little bit of perseverance. \
+**Link**:https://codepen.io/tejasbn/project/editor/XmJBPE 
+
+
