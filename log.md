@@ -27,5 +27,6 @@
 **Progress**: not stuck anymore can acess the weather icons \
 **Thoughts**: I am happy today, I finally got unstuck from this problem and all I needed was a little bit of perseverance. \
 **Link**:https://codepen.io/tejasbn/project/editor/XmJBPE 
-
-
+**Day 8 and 9**: January 1&2,2018
+**Progress**: Imporeved my jquery skills.
+**Thoughts**: Last two days I have not been very productive and i'm becoming lazier , I need to learn to control myself.
